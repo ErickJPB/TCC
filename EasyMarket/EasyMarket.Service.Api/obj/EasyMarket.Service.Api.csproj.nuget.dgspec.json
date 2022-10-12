@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj": {}
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj": {}
   },
   "projects": {
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj": {
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj",
+        "projectUniqueName": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj",
         "projectName": "EasyMarket.Application",
-        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj",
+        "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\obj\\",
+        "outputPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
               },
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj"
               }
             }
           }
@@ -66,7 +62,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,25 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
+        "projectUniqueName": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
         "projectName": "EasyMarket.Domain.Dto",
-        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
+        "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\obj\\",
+        "outputPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
               }
             }
           }
@@ -128,7 +121,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -137,25 +131,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
+        "projectUniqueName": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
         "projectName": "EasyMarket.Domain",
-        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
+        "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\obj\\",
+        "outputPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,7 +176,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -195,25 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
+        "projectUniqueName": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
         "projectName": "EasyMarket.Infra",
-        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
+        "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\obj\\",
+        "outputPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -227,11 +214,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
               },
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
               }
             }
           }
@@ -277,7 +264,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -286,25 +274,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj": {
+    "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
+        "projectUniqueName": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
         "projectName": "EasyMarket.Service.Api",
-        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
+        "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\obj\\",
+        "outputPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -318,17 +302,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Application\\EasyMarket.Application.csproj"
               },
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
               },
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
               },
-              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
-                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj"
+              "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
+                "projectPath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj"
               }
             }
           }
@@ -380,7 +364,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -392,7 +377,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JJiisrwuwvDjYyT1r7MPzUb6TF3Pj7HBy0KbLZ42GwLQgm2IfW3s1hKs0Wlss5lgp7V9cNHZTrIlmaflfiNJnw==",
+  "dgSpecHash": "2KhDbmIDg0F/zJMZ/zRlLWJYhXCkHn7UeEI360VdhpW3fqUcBGLRyAWnxrFM4kIpyiGGQRtO1+xfwdjAs30WXw==",
   "success": true,
-  "projectFilePath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
+  "projectFilePath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Service.Api\\EasyMarket.Service.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

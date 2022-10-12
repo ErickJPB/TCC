@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tca/Dg68B3o8yCgKiKUS8gXFGVZtRQ+LZVVH0sqXYvPi61W6FMIJJ5/a5bwDS1p8+ZLEwDPp/PViaCnW2Fc1dg==",
+  "dgSpecHash": "nL8Xph3eqRmEx4wSPm/V2DaEAUBq0/cjqnhEa2ZIl86YbYPhoQ2j52eIV6i461IHSadUg1vlxfaJRk3Ezv7Rxw==",
   "success": true,
-  "projectFilePath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
+  "projectFilePath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.17.nupkg.sha512",

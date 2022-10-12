@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nazqy1ScZtiKe5geKcJ6Z/Otj8EjB5Ubbbj2EDLuQMTt8361+IDk2z34YZ8XgrSA+55wJIsISqXA65rC62Wk8g==",
+  "dgSpecHash": "9v4VU8avEFqMnRFXpyMxxbDlWqGu7wLQTUd31ecYcLI1ziEi4YgviOhXit42RacdYpYmwR+mrFdTOg0SXz6aAQ==",
   "success": true,
-  "projectFilePath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
+  "projectFilePath": "D:\\TCC\\TCC\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
