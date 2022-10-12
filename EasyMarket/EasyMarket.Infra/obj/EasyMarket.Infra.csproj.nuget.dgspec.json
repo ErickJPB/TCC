@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {}
+  },
+  "projects": {
+    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
+        "projectName": "EasyMarket.Domain.Dto",
+        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
+        "projectName": "EasyMarket.Domain",
+        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
+        "projectName": "EasyMarket.Infra",
+        "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\EasyMarket.Infra.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj": {
+                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain.Dto\\EasyMarket.Domain.Dto.csproj"
+              },
+              "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj": {
+                "projectPath": "E:\\Pós-Graduação Engenharia de Software\\TCC\\versao nova\\EasyMarket\\EasyMarket.Domain\\EasyMarket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

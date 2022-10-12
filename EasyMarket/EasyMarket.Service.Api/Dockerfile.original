@@ -1,0 +1,6 @@
+﻿# Verifique se o cluster do Service Fabric no qual você está implantando é compatível com a imagem de contêiner que está usando. Confira https://aka.ms/containerimagehelp para obter informações sobre a compatibilidade de versão do contêiner do Windows.
+FROM mcr.microsoft.com/dotnet/aspnet:5.0
+ARG source
+WORKDIR /app
+COPY ${source:-obj/Docker/publish} .
+ENTRYPOINT ["dotnet", "EasyMarket.Service.Api.dll"]

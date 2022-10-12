@@ -1,0 +1,5 @@
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Release\net5.0\publish\EasyMarket.Domain.Dto.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Release\net5.0\publish\EasyMarket.Domain.Dto.deps.json
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Release\net5.0\publish\EasyMarket.Domain.Dto.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Release\net5.0\publish\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Release\net5.0\publish\EasyMarket.Domain.pdb

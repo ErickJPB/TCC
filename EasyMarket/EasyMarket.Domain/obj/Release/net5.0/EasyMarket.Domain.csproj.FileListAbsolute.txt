@@ -1,0 +1,12 @@
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\bin\Release\net5.0\EasyMarket.Domain.deps.json
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\bin\Release\net5.0\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\bin\Release\net5.0\EasyMarket.Domain.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.csproj.AssemblyReference.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.AssemblyInfoInputs.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.AssemblyInfo.cs
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.csproj.CoreCompileInputs.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\refint\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\EasyMarket.Domain.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain\obj\Release\net5.0\ref\EasyMarket.Domain.dll

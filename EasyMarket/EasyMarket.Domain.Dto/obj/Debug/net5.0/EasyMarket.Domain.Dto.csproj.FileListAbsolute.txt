@@ -1,0 +1,30 @@
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.deps.json
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.dll
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\ref\EasyMarket.Domain.Dto.dll
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.pdb
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.AssemblyReference.cache
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.AssemblyInfoInputs.cache
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.AssemblyInfo.cs
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.CoreCompileInputs.cache
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.dll
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\ref\EasyMarket.Domain.Dto.dll
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.pdb
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.dll
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.pdb
+C:\Users\vinicio.magalhaes\source\repos\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.CopyComplete
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.deps.json
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.Dto.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\bin\Debug\net5.0\EasyMarket.Domain.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.AssemblyReference.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.AssemblyInfoInputs.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.AssemblyInfo.cs
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.CoreCompileInputs.cache
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.csproj.CopyComplete
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\refint\EasyMarket.Domain.Dto.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\EasyMarket.Domain.Dto.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Domain.Dto\obj\Debug\net5.0\ref\EasyMarket.Domain.Dto.dll

@@ -1,0 +1,16 @@
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Infra.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Infra.runtimeconfig.json
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Infra.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Microsoft.Extensions.DependencyInjection.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Npgsql.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\System.Diagnostics.DiagnosticSource.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Domain.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Domain.Dto.dll
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Domain.Dto.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Domain.pdb
+E:\Pós-Graduação Engenharia de Software\TCC\versao nova\EasyMarket\EasyMarket.Infra\bin\Release\net5.0\publish\EasyMarket.Infra.deps.json
